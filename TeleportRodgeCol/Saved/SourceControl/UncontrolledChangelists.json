@@ -1,0 +1,27 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"F:/github/TeleportRodgeCol/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
+				"F:/github/TeleportRodgeCol/Content/BP_TeleportDoor.uasset",
+				"F:/github/TeleportRodgeCol/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"F:/github/TeleportRodgeCol/Content/Dodge_Small_Forward_Roll.uasset",
+				"F:/github/TeleportRodgeCol/Content/Dodge_Small_Forward_Roll1.uasset",
+				"F:/github/TeleportRodgeCol/Content/Dodge_Small_Forward_Roll1_Montage.uasset",
+				"F:/github/TeleportRodgeCol/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"F:/github/TeleportRodgeCol/Content/BP_HelthCollect.uasset",
+				"F:/github/TeleportRodgeCol/Content/WB_Health.uasset",
+				"F:/github/TeleportRodgeCol/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/08/CUDP1GXM9VK1U7K37OAMP0.uasset",
+				"F:/github/TeleportRodgeCol/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/FF/HOGCPKWBZTCYHQUND5HY3C.uasset",
+				"F:/github/TeleportRodgeCol/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/KJ/HY2AVEOOT76DGDVJ7FH18U.uasset",
+				"F:/github/TeleportRodgeCol/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/ED/YKV7HHOP64F3JPYJ705WC2.uasset",
+				"F:/github/TeleportRodgeCol/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/2O/T7ZYT1D6X1VZEMN4Z3FW67.uasset",
+				"F:/github/TeleportRodgeCol/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/52/95OPN80M876MYEF6PJB6MT.uasset",
+				"F:/github/TeleportRodgeCol/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/ZQ/OZB3XO5RZMLL8BE60K9013.uasset"
+			]
+		}
+	]
+}
